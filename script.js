@@ -1,13 +1,6 @@
 const quizData = [
     // question 1
-    {
-       question: "In Greek mythology Medusa’s hair was made of what?",
-       a: "Snakes",
-       b: "Cat",
-       c: "Dog",
-       d: "Mouse",
-       correct: "a" ,
-    },
+    
      // question 2
      {
         question: "Which creature in Greek mythology was half-man and half-bull?",
@@ -18,14 +11,7 @@ const quizData = [
         correct: "c" ,
      },
       // question 3
-    {
-        question: "What was hades pet?",
-        a: "Three headed Lion",
-        b: "Two headed bull",
-        c: "Three headed dog",
-        d: "Five headed cat",
-        correct: "c" ,
-     },
+    
       // question 4
     {
         question: "What did Daedalus construct for King Minos so that he could keep the Minotaur there?",
@@ -54,14 +40,7 @@ const quizData = [
         correct: "d" ,
      },
       // question 7
-    {
-        question: "Who was the ancient Greek God that was both God of the Underworld and God of the Dead?",
-        a: "Grim Ripper",
-        b: "Zeus",
-        c: "Apollo",
-        d: "Hades",
-        correct: "d" ,
-     },
+   
       // question 8
     {
         question: "Who is the goddess of the rainbow",
@@ -72,14 +51,7 @@ const quizData = [
         correct: "b" ,
      },
       // question 9
-    {
-        question: "Who is the greek god of the sea ?",
-        a: "Poseidon",
-        b: "Trition",
-        c: "Uranus",
-        d: "Cronus",
-        correct: "a" ,
-     },
+    
       // question 10
     {
         question: "Who spurned Echo’s love and was punished by being made to fall in love with his won reflection?",
@@ -108,23 +80,9 @@ const quizData = [
         correct: "b" ,
      },
       // question 13
-    {
-        question: "What was the Greek hero Achilles’ only vulnerable part?",
-        a: "Heel",
-        b: "Elbow",
-        c: "Chest",
-        d: "Pelvis",
-        correct: "a" ,
-     },
+   
       // question 14
-    {
-        question: "How many labours did Hercules face ?",
-        a: "12",
-        b: "11",
-        c: "15",
-        d: "14",
-        correct: "a" ,
-     },
+    
       // question 15
     {
         question: "Amongst his labours Hercules cleaned which stables",
@@ -317,14 +275,7 @@ const quizData = [
       correct: "c" ,
    },
      // question 36
-     {
-      question: "Argos was a monster with many eyes , when he was killed his eyes where put on which animal?",
-      a: "Zebra",
-      b: "Wilderbeast",
-      c: "Flying fish",
-      d: "Peacock",
-      correct: "d" ,
-   },
+    
      // question 37
      {
       question: "Athena was associated with which animal?",
@@ -335,14 +286,7 @@ const quizData = [
       correct: "a" ,
    },
     // question 38
-    {
-      question: "What was the name of the ‘river of hate’ that flowed round the Underworld?",
-      a: "River Nile",
-      b: "River Styx",
-      c: "River of Poseidon",
-      d: "Neptunes wave",
-      correct: "b" ,
-   },
+   
     // question 39
     {
       question: "Who were the guardian spirits of nature in Greek mythology?",
@@ -362,14 +306,7 @@ const quizData = [
       correct: "a" ,
    },
     // question 41
-    {
-      question: "what mountain did the gods live on",
-      a: "Mount everest",
-      b: "Mount Fuji",
-      c: "Mount Kilimanjaro",
-      d: "Mount Olympus",
-      correct: "d" ,
-   },
+    
     // question 42
     {
       question: "WHO WAS THE GREEK GOD OF TRAVELLERS AND THIEVES?",
@@ -380,14 +317,7 @@ const quizData = [
       correct: "a" ,
    },
     // question 43
-    {
-      question: "WHO IS THE GREEK GOD OF MUSIC?",
-      a: "Hephaestus",
-      b: "Apollo",
-      c: "Kion",
-      d: "Phillip",
-      correct: "b" ,
-   },
+    
     // question 44
     {
       question: "Who is the god of the forges",
@@ -407,23 +337,9 @@ const quizData = [
       correct: "" ,
    },
     // question 46
-    {
-      question: "who is known as the god of war",
-      a: "Ares",
-      b: "Hermes",
-      c: "Zeus",
-      d: "Apollo",
-      correct: "a" ,
-   },
+   
     // question 47
-    {
-      question: "WHICH NAME IS SHARED BY THE GREEK GODDESS OF VICTORY & AN INTERNATIONAL SPORTSWARE MANUFACTURER?",
-      a: "Puma",
-      b: "Adidas",
-      c: "Nike",
-      d: "Reebok",
-      correct: "c" ,
-   },
+    
     // question 48
     {
       question: "Who got too close to the sun after disobeying his father",
@@ -434,23 +350,7 @@ const quizData = [
       correct: "a" ,
    },
     // question 49
-    {
-      question: "Who overthrew Uranus",
-      a: "Cronus",
-      b: "Zeus",
-      c: "Apollo",
-      d: "Paris of troy",
-      correct: "a" ,
-   },
-    // question 50
-    {
-      question: "Who overthrew Cronus",
-      a: "Hercules",
-      b: "Poseidon",
-      c: "Hades",
-      d: "Zeus",
-      correct: "d" ,
-   },
+    
    
     
     
